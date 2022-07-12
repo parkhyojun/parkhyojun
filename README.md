@@ -21,6 +21,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyojun&layout=compact)](https://github.com/parkhyojun/github-readme-stats)
+
 
