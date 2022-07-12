@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm HyoJunPark</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from South.Korea</h3>
 
 - 🔭 I’m currently working on [Kh.Academy](FullStack_Developer)
 
